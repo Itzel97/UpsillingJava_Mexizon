@@ -11,10 +11,6 @@ interface FuncionProductoBusqueda {
 public class Marketplace {
       static List<Usuario> listaUsuarios = new ArrayList<>() ;
       static List<Producto> productosAlaVenta = new ArrayList<>();
-     // static  List<Producto> productosVenta = new ArrayList<>();
-
-    //private Usuario usuario;
-    //private Producto producto;
 
 
 
