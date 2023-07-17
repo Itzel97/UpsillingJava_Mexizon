@@ -129,7 +129,7 @@ public class Marketplace {
      }
 
      public static void consultarHistorialDeCompra (Usuario usuario){
-         if(usuario.getProductosCompra() != null){
+         if(usuario.getProductosCompra() == null){
              System.out.println("No tiene ninguna producto comprado");
          }
 
